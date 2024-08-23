@@ -10,5 +10,5 @@ kasmweb/nginx:1.25.3
 ollama/ollama:latest
 python:3.9.19
 moby/buildkit:buildx-stable-1
---platform=linux/amd64  python:3.8-slim
---platform=linux/amd64  python:3.9-slim
+--platform=linux/arm64  python:3.8-slim
+--platform=linux/arm64  python:3.9-slim
