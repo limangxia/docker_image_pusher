@@ -12,3 +12,4 @@ python:3.9.19
 moby/buildkit:buildx-stable-1
 --platform=linux/arm64  python:3.8-slim
 --platform=linux/arm64  python:3.9-slim
+--platform=linux/arm64  bitnami/pytorch:2.1.2-debian-11-r3
