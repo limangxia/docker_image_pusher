@@ -11,3 +11,4 @@ ollama/ollama:latest
 python:3.9.19
 moby/buildkit:buildx-stable-1
 python:3.8-slim
+python:3.9-slim@sha256:fd57b2b2c2a82c0102795a3e79d0e07a98d54442931482ffc7f2e293b92f6e74
